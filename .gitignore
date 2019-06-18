@@ -7,3 +7,4 @@ staticfiles/
 .coverage
 celerybeat*
 htmlcov/*
+venv/
